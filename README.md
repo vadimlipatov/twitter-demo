@@ -1,7 +1,5 @@
 # Next Demo Project
 
-![Fullstack Twitter Demo](https://foo)
-
 This is a repo for project using React, NextJS, TailwindCSS & Prisma.
 
 ### Prerequisites
